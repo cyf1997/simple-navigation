@@ -59,4 +59,5 @@ In other words, all icons from ionicons5 are already loaded when the project is 
 
 link：[xicons - Icons for Vue & React](https://www.xicons.org/#/)
 
-![image-20251102150901489](C:\Users\14162\AppData\Roaming\Typora\typora-user-images\image-20251102150901489.png)
+<img width="2239" height="487" alt="image" src="https://github.com/user-attachments/assets/ea65e2d3-baf7-4199-94ba-47f3ab4e7f25" />
+
