@@ -7,7 +7,7 @@ a simple navigation website for your team,implemented entirely on the frontend,c
 - Vite7
 - navie-ui 
 - tailwindcss4
-- ion,icon5
+- ionicon5
 
 
 
