@@ -61,3 +61,9 @@ link：[xicons - Icons for Vue & React](https://www.xicons.org/#/)
 
 <img width="2239" height="487" alt="image" src="https://github.com/user-attachments/assets/ea65e2d3-baf7-4199-94ba-47f3ab4e7f25" />
 
+## Rendering
+<img width="1111" height="606" alt="image" src="https://github.com/user-attachments/assets/897d1a6a-82d2-4d39-9dfc-356328008210" />
+
+<img width="1112" height="592" alt="image" src="https://github.com/user-attachments/assets/0a0edc36-d951-454f-93a3-19a1397eaf71" />
+
+
